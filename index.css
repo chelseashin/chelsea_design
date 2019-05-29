@@ -1,4 +1,4 @@
-a, h2, h4 {
+a, h2, h3, h4 {
     font-family: 'Noto Serif KR', serif;
 }
 h2, h4 {
@@ -7,7 +7,14 @@ h2, h4 {
 .fas, h2 { color: #42c081; }
 .content { margin-top: 100px; }
 .navbar {
-    border-bottom: 1.2px dashed #42c081;
+    border-bottom: 1.2px dashed #42c081;   
+}
+h3 {
+    color: rgb(250, 81, 39);
+}
+hr.cut {
+    color: rgba(32, 32, 32, 0.719);
+    border: thin dashed;
 }
 .footer {
     padding-top: 2rem;
