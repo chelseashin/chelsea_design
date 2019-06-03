@@ -1,8 +1,10 @@
-## JavaScript 
+## JavaScript_시작
 
 
 
 2019-06-02
+
+----
 
 < 생활코딩 Web2 - Javascript >
 
